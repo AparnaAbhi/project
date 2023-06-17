@@ -1,0 +1,119 @@
+*{margin:0;padding:0;}
+.bck{width:100%;height:100%}
+.main{background-color:rgb(255,255,255,0.6);display:flex;height:90px;}
+.logo{width:100px;height:80px;}
+.h{display:inline-block;margin:30px;font-size:30px;font-weight:bold;}
+ul{flex:1;text-align:right;}
+a{text-decoration:none;color:black;}
+.c:hover{text-decoration:underline;}
+.bck2{width:100%;height:100%}
+.lo{font-family:Lucida Calligraphy;}
+.but{font-family:Lucida Calligraphy;}
+form div{width:100%;display:flex;justify-content:space-around;padding:10px}
+.form{position:absolute;bottom:35%;right:35%;background-color:rgb(255,255,255,0.6);width:380px;height:200x;top:100%px;border-radius:10px;}
+.sign{color:black;}
+.sign:hover{text-decoration:underline;}
+.al{color:black;text-decoration:none;}
+.loh{color:blue;}
+.loh:hover{text-decoration:underline;}
+.book{background-image:url(ook.jpg); background-repeat:no-repeat;background-size:cover;}
+.ha{background-color:rgb(255,255,255,0.6);width:380px;height:320px;margin-top:10%;border-radius:10px;}
+.g{font-family:Microsoft YaHei Light;}
+.g:hover{text-decoration:underline;}
+.bk{width:300px;height:300px;border-radius:20px;padding:20%}
+.in{font-size:18;text-align:center;padding-top:10px;font-family:Lucida Calligraphy;}
+
+.ck{width:150px;height:200px;padding-left:20%;}
+.dk{width:300px;height:300px;}
+.bu{margin-left:90%;}
+.abo{width:100%;height:100%;position:relative;}
+.l{position:absolute;top:40px;left:60%;font-family:Curlz MT;font-size:65px;}
+.ph{position:absolute;bottom:300;left:40%;font-family:Times New Roman;font-size:20px;color:#d9d9d9;}
+.re{position:absolute;top:360;left:60%;font-size:40px;color:white;font-family:Ink Free;}
+.ba{width:100%;height:140%;position:absolute}
+.cate{font-size:20px;font-family:Algerian;text-decoration:underline;padding-left:20px;text-align:center;margin-top:50px;}
+.lv{padding:20px;height:250px;width:250px;border-radius:20%;}
+.lve{padding:10px;border-radius:10px;margin-left:30%;}
+.d1{margin:40px;font-family:Curlz MT;font-size:20px;text-align:center;}
+.bk{width:150px;height:150px;border-radius:30%;}
+.hk{width:150px;height:150px;border-radius:20px;}
+.k{text-decoration:none;}
+.k:hover{text-decoration:underline;}
+.pn{margin-left:50px;font-family:Lucida Calligraphy;padding-left:350px;}
+.mk{width:180px;height:180px;margin-left:90px;}
+.pn:hover{text-decoration:underline;}
+.sk{width:200px;height:250px;border-radius:50%;}
+.sn{margin-left:50%;font-family:Lucida Calligraphy;padding-top:20%;}
+.hn{margin-left:60%;font-family:Lucida Calligraphy;padding-top:10%;}
+.sn:hover{text-decoration:underline;}
+.hn:hover{text-decoration:underline;}
+.con{text-align:center;font-family:Lucida Calligraphy;font-size:40px;}
+.hub{font-size:60px;font-family:Curlz MT;margin-top:80px;}
+.aoq{font-size:28px;font-family:Times New Roman;padding-left:60px;}
+.py{font-size:15px;}
+.ps{font-size:17px;padding-top:10px;}
+.ps:hover{text-decoration:underline;}
+.icon{font-size:30px;padding-left:5%;margin-top:5%;}
+.fa{margin:10px;position:relative}
+.psw{position:relative;}
+
+#wht:after{content:'9241562436';
+            
+			height:40px;
+			font-size:16px;
+			position:absolute;
+			top:-18px;
+			left:0;
+			visibility:hidden;
+			
+			
+}
+#wht:hover:after{visibility:visible}
+
+#env:after{content:'bookhub@gmail.com';
+            
+			height:40px;
+			font-size:16px;
+			position:absolute;
+			top:-18px;
+			left:0;
+			visibility:hidden;
+			
+			
+}
+#env:hover:after{visibility:visible}
+
+#twi:after{content:'bOoKhUb123';
+            
+			height:40px;
+			font-size:16px;
+			position:absolute;
+			top:-18px;
+			left:0;
+			visibility:hidden;
+			
+			
+}
+#twi:hover:after{visibility:visible}
+
+#ins:after{content:'@BoOkHuB';
+            
+			height:40px;
+			font-size:16px;
+			position:absolute;
+			top:-18px;
+			left:0;
+			visibility:hidden;
+			
+			
+}
+#ins:hover:after{visibility:visible}
+#eye,#o-eye{position:absolute;left:54%;bottom:56.4%;}
+#ey,#v-eye{position:absolute;left:64%;top:46%;}
+.df div{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:20%}
+.demo div:hover{box-shadow:1px 5px 5px 3px rgb(00,00,00,0.5);transform:translateY(-20px);transition:0.2s;}
+.demo{margin:20px;}
+.demo   div{height:350px;width:250px;padding-top:20px;}
+.font{font-size:30px;color:blue;background-color:yellow;margin-left:11%;}
+
+
